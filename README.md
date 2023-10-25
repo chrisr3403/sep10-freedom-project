@@ -4,21 +4,23 @@ by **X**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of science based on my learning of it in the past years of my experience science has really wanted me to explore what its about. 
+The freedom project will be all about science and what website could be useful to help the world using science. The real reason why I choose this as my innovations in the topic of my choosing is because the world is in need of care.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used Github to track what things I would love to do for science and whats its about. I also chose to independently study science in order to help me make by website.
 
-## Links
+## Links https://www.bing.com/ck/a?!&&p=30240094978b3877JmltdHM9MTY5ODE5MjAwMCZpZ3VpZD0zMmFhN2VkZC0wMjEzLTZmN2QtMmVjOC02YzY3MDM3MTZlOWImaW5zaWQ9NTIyNQ&ptn=3&ver=2&hsh=3&fclid=32aa7edd-0213-6f7d-2ec8-6c6703716e9b&psq=science+link&u=a1aHR0cHM6Ly93d3cuc2NpZW5jZW5ld3Mub3JnLw&ntb=1
 
 [Product]()
+https://www.sciencenews.org/article/10-billion-snow-crabs-disappeared-alaska
 
 [Presentation]()
-
+Crabs dissappear 
 ## Implications
 ##### PROS
-* 
+* Helping wild life and sea life rescuing the snow crabs
 ##### CONS
-* 
+* We still must figure out how to help them
 
 
 ## Blog
