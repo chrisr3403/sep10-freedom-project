@@ -1,7 +1,8 @@
 # Entry 6
-FP Project 5/5/24
+FP MVP 5/5/24
 
-This blog will be about my FP Project and what I did to 
+This blog will be about my FP MVP and what I did to tinker and use to create it. FP MVP is my website to showcase the things that needs to be created in life.
+I used my tool css variables from [w3schools]
 
 
 [Previous](entry05.md) | [Next](entry07.md)
