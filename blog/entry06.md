@@ -1,7 +1,7 @@
 # Entry 6
-##### X/X/XX
+Partnership 5/5/24
 
-Text
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
