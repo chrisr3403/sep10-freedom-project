@@ -16,6 +16,10 @@ I plan to use more the color codes as well as background and float: left; width:
 the future have a unique engineering code design with these type of codes that will make a successful project or writing when even making a interview by writing 
 I can use these css codes from the css varables.
 
+Challenges:  I faced a lot of challenges that my friends had to help me with for example a image was Phasing through the dropdown of my mvp and we had to change a lot of things
+to make it stand out the right way we used many codes to link it but a big momment happened where the code was already there we just needed to change it 
+it was very easy when searching and it was the size or height and with not being linked with the image and then the image worked.
+
 
 
 
