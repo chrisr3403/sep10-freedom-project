@@ -14,7 +14,7 @@ My next takeaway is when presenting make sure not to be so mixed up in slides be
 In my presentation it was very good to show to the people that you put time in this and you are explaining I felt this way explaining my project because I wanted to show off skills like
 speaking a type of voice for presenting my FP project a formal voice a presenting voice. My Main skill is being very creative with my FP project I may had messed up on my tool
 but the main thing I used was creative thinking for the FP Project like boostrap accordian and W3schools with my tools examples to use for the orbiting defenses.
-I did another presentation for EXPO elevator pitch here is a link [Expo Elevator Pitch](https://docs.google.com/document/d/1noPdI-D3wfKnJr9Kn_khtRJILvSFmbQqFh1uZ8sdusQ/edit) 
+I did another presentation for EXPO elevator pitch [Expo Elevator Pitch](https://docs.google.com/document/d/1noPdI-D3wfKnJr9Kn_khtRJILvSFmbQqFh1uZ8sdusQ/edit) 
 this presentation was for our FP projects like the first scroll all the way down to see it.
 It was all about sharing our projects to those higeher and lower grade then us as well as visiters and teachers.
 My experence for this was very good I had 20 people come review me and even my friends and I had very good and positive reviews on each of my presentations.
