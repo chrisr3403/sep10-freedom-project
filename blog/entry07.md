@@ -21,7 +21,7 @@ My experence for this was very good I had 20 people come review me and even my f
 My skill was answering their questions they asked me questions like "what made you make a project like this" I gave prime examples of the real life things that could happen to our 
 planet.
 A takeaway is always listen carefully to what others ask or say about your presentations you must understand what they ask or say so you can respond back to what they say.
-The presentations have been a good experence to show what you created and give code examples and teach the people who are interested in sep for future of what they want to code or learn.
+The presentations have been a good experence to show what you created and give code examples and teach the people who are interested in sep for future of what they want to code or learn and evolve to understand SEP.
 
 
 [Previous](entry06.md) | [Next](entry08.md)
