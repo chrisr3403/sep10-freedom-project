@@ -14,7 +14,8 @@ I used Github to track what things I would love to do for science and whats its 
 [https://www.sciencenews.org/article/10-billion-snow-crabs-disappeared-alaska](https://www.sciencenews.org/article/new-quasi-crystal-formed-first-atomic-bomb-test)
 
 [Presentation]()
-Atomic creations.
+Atomic creations.![Screenshot 2024-06-12 175532](https://github.com/user-attachments/assets/3fc052ef-d554-4458-974b-0998c0b21255)
+
 ## Implications
 ##### PROS
 * Creating new things in discovory.
